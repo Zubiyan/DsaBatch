@@ -1,8 +1,15 @@
-Use Git bash here command wherever you want to share files to repo.
+Use "Git bash here" command wherever you want to share files to repo.
 
 Commands:-
 1.)git init :-It is used to initialize and reinitialize repository.
-2.)git status :-Used to check the status of the local files on git.
+
+2.)git status :-Used to check the status of the local files on git(tracked or untracked).
+
 3.)git add :- Used to track the status of the file.
 git add . :-track all files.
 git add (tab) :- track a particular file.
+
+4.)git commit -m "first commit" :-Used to confirm.
+
+5.)git config --global user.email "your email-id" :-Set git email.
+   git config --global user.name "your github username" :-set user.
